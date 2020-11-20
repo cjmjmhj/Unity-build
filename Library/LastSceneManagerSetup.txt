@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/LEGO/Scenes/Microgame - Avoidance 9.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
